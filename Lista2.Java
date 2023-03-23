@@ -7,6 +7,10 @@ public class Calculadora {
         Scanner scanner = new Scanner(System.in);
         int opcao = 0;
 
+        // colocar atributos
+        public
+            
+            
         do {
             System.out.println("Digite o primeiro número: ");
             double num1 = scanner.nextDouble();
